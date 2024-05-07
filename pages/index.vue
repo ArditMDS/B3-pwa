@@ -1,0 +1,13 @@
+<script setup lang="ts">
+import MainHeader from "~/components/MainHeader.vue";
+
+</script>
+
+<template>
+  <MainTitle title="En ce moment"/>
+  <MainHeader/>
+</template>
+
+<style scoped>
+
+</style>
